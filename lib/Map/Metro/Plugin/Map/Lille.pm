@@ -33,7 +33,7 @@ __END__
 
 Or
 
-	$ map-metro.pl route Lille 1 4 
+	$ map-metro.pl route Lille "Gambetta" "Lille Grand Palais"
 
 =head1 DESCRIPTION
 
@@ -46,7 +46,7 @@ L<Map::Metro::Plugin::Map::Lille::Lines>
 This map includes:
 
 =for :list
-* The two metro lines 
+* The two metro lines [L<wikipedia|https://en.wikipedia.org/wiki/Lille_Metro>]
 
 =for HTML <p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Lille/master/static/images/lille.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Lille/master/static/images/lille.png" style="max-width: 600px" /></a></p>
 

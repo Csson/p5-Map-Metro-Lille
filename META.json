@@ -36,13 +36,24 @@
       },
       "runtime" : {
          "requires" : {
-            "Map::Metro" : "0.2200",
+            "Map::Metro" : "0.2201",
             "Moose::Role" : "2.0000",
             "perl" : "5.014000"
          }
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/Csson/p5-Map-Metro-Lille/issues"
+      },
+      "homepage" : "https://metacpan.org/release/Map-Metro-Plugin-Map-Lille",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/Csson/p5-Map-Metro-Lille.git",
+         "web" : "https://github.com/Csson/p5-Map-Metro-Lille"
+      }
+   },
    "version" : "0.0001"
 }
 
