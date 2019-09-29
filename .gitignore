@@ -1,7 +1,12 @@
-/Map-Metro-Plugin-Map-Lille-*
+# This file was auto-generated from iller.yaml by Dist::Iller on 2019-09-29 18:19:20 UTC.
+# The following configs were used:
+# * Dist::Iller::Config::Author::CSSON: 0.0323
+
 /.build
 /_build*
 /Build
 MYMETA.*
 !META.json
 /.prove
+Map-Metro-Plugin-Map-Lille-*
+.coverhistory.json
