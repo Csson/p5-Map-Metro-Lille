@@ -4,7 +4,7 @@ package Map::Metro::Plugin::Map::Lille;
 
 # ABSTRACT: Map::Metro map for Lille
 # AUTHORITY
-our $VERSION = '0.1003';
+our $VERSION = '0.1004';
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
