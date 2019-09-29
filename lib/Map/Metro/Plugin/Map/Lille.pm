@@ -2,8 +2,9 @@ use 5.14.0;
 
 package Map::Metro::Plugin::Map::Lille;
 
-# VERSION
 # ABSTRACT: Map::Metro map for Lille
+# AUTHORITY
+our $VERSION = '0.1003';
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
